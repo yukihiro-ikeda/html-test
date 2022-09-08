@@ -1,0 +1,62 @@
+.contact tr{
+    height: 7rem;
+  }
+  
+  .contact th{
+    width: 150px;
+    text-align: right;
+
+  }
+
+.content td{
+  margin-left: 20px;
+}  
+  
+  .textarea{
+    width: 480px;
+    margin-left: 10px;
+    border: solid 1px #B1B1B1;
+  }
+
+  .contact{
+    border-collapse: collapse;
+  }
+
+.td{
+    width:480px;
+    margin-left: 20px;
+    }
+
+.form{
+    text-align: center;
+    }
+
+.button{
+    color:#fff;;
+    background-color: #008B8B;
+    padding: 10px 10px;
+    text-align: center;
+    font-size: 3rem;
+    border: none;
+  }
+
+.contact submit{
+    background-color: #008B8B;
+
+  }
+
+.button:hover{
+    opacity: 0.5;
+  }  
+
+.button1{
+    text-align: center;
+  }
+
+.radio{
+    margin-left: 10px;
+  }
+
+.radio2{
+    margin-left: 0px;
+  }      
